@@ -1,5 +1,3 @@
-7-islower.py
-
 #!/usr/bin/python3
 # 7-islower.py
 
